@@ -1,5 +1,1 @@
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M14.1667 14.1667C12.0833 12.0833 16.25 10.4167 14.1667 7.5M20 14.1667C17.9167 12.0833 22.0833 10.4167 20 7.5M25.8333 14.1667C23.75 12.0833 27.9167 10.4167 25.8333 7.5" stroke-width="2.16667" stroke-linecap="round" stroke="#5C3D2E"/>
-<path d="M4.16666 18.333H35.8333C35.8333 27.083 28.75 34.1663 20 34.1663C11.25 34.1663 4.16666 27.083 4.16666 18.333Z" fill="#B4532A"/>
-<path d="M26.0417 34.167H13.9583C13.1529 34.167 12.5 34.8199 12.5 35.6253C12.5 36.4307 13.1529 37.0837 13.9583 37.0837H26.0417C26.8471 37.0837 27.5 36.4307 27.5 35.6253C27.5 34.8199 26.8471 34.167 26.0417 34.167Z" fill="#5C3D2E"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="32" fill="#AE5028"/><text x="32" y="41" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="26" fill="#fff">SR</text></svg>
